@@ -1,7 +1,8 @@
 <div align="center">
 
 # 🌿 👋 Hallo, Grüß Gott, Moin, Servus, Hello... 🌿
-### I’m Moritz, from Stuttgart, Germany. Welcome to my GitHub!
+### I’m Moritz, from Stuttgart, Germany. I am currently doing my apprenticeship in IT.
+### Welcome to my GitHub!
 
 <br>
 
