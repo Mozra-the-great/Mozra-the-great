@@ -9,8 +9,8 @@
 
 <br>
 
-> *To be completely honest, I barely have a clue about programming, <br>
-> so most of the stuff that might end up here sooner or later is probably 100% AI-Slop™.*
+To be completely honest, I barely have a clue about programming, <br>
+so most of the stuff that might end up here sooner or later is probably 100% AI-Slop™.
 
 <br>
 
