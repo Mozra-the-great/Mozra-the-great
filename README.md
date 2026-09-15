@@ -18,7 +18,7 @@ so most of the stuff that might end up here sooner or later is probably 100% AI-
 ### 🛠️ Hardware & Homelab 🛠️
 
 When it comes to hardware, though, I know a thing or two. <br>
-Maybe not enough that you should blindly trust my guides or docs — <br>
+Maybe not enough that you should blindly trust my guides or docs <br>
 but it’s definitely enough for a bit of tinkering and general chaos. 👉👈
 
 If you like browsing through half-baked ideas, documentation, <br>
