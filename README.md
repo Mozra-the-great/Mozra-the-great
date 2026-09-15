@@ -1,5 +1,4 @@
-👋 Hallo
-Hallo, Grüß Gott, Moin, Servus Heennlllooo
+👋 Hallo, Grüß Gott, Moin, Servus, Hello, Greetings, Bonjour, Hola, Heennlllooo
 
 Willkommen auf meinem GitHub!
 
