@@ -1,28 +1,16 @@
 👋 Hallo, Grüß Gott, Moin, Servus, Hello, Greetings, Bonjour, Hola, Heennlllooo
 
-Willkommen auf meinem GitHub!
+I’m Moritz, from Stuttgart, Germany.
+Welcome to my GitHub!
 
-Ich habe ehrlich gesagt kaum Ahnung von Programmieren, deshalb sind die meisten Sachen, die hier vielleicht irgendwann landen, vermutlich 100 % AI-Slop™.
+To be completely honest, I barely have a clue about programming, so most of the stuff that might end up here sooner or later is probably 100% AI-Slop™.
 
-Von Hardware habe ich dafür ein bisschen Ahnung. Vielleicht nicht so viel, dass man meinen Anleitungen oder Dokus blind vertrauen sollte – aber für ein bisschen Chaos und Basteln reicht’s allemal. 👉👈
+When it comes to hardware, though, I know a thing or two. Maybe not enough that you should blindly trust my guides or docs — but it’s definitely enough for a bit of tinkering and general chaos. 👉👈
 
-Wenn du also gerne durch halbfertige Ideen, Homelab-Kram, Dokus, Experimente und KI-unterstützten Unsinn stöberst:
-Viel Spaß hier!
+So if you like browsing through half-baked ideas, homelab stuff, documentation, experiments, and AI-assisted nonsense:
+Have fun exploring!
 
-Und keine Ahnung, wie du hier gelandet bist aber jetzt bist du ja schon mal da.
+And honestly, I have no idea how you ended up here, but well... now that you’re here anyway.
 
 
-<!--
-**Mozra-the-great/Mozra-the-great** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can also find me on Instagram: @moritz_b_s and @projekt_strasse
