@@ -1,4 +1,4 @@
-# 👋 Hallo, Grüß Gott, Moin, Servus, Hello, Greetings, Bonjour, Hola, Heennlllooo!
+# 👋 Hallo, Moin, Servus, Hello, Greetings, Bonjour, Hola, Heennlllooo!
 
 I’m **Moritz**, from Stuttgart, Germany. I am currently doing my apprenticeship in IT. 
 Welcome to my GitHub!
