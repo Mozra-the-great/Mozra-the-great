@@ -15,6 +15,10 @@ so most of the stuff that might end up here sooner or later is probably 100% AI-
 
 <br>
 
+⊱ ──────────── {.⋅ 🌸 ⋅.} ──────────── ⊰
+
+<br>
+
 ### 🛠️ Hardware & Homelab 🛠️
 
 When it comes to hardware, though, I know a thing or two. <br>
