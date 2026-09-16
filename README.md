@@ -4,7 +4,7 @@
 <br>
 
 # 🌿 👋 Hello, Moin, Servus, Greetings, Bonjour, Hola... 🌿
-### I’m Moritz, from Stuttgart, Germany.
+### I’m Moritz, from Stuttgart, Germany 🚩🇪🇺.
 #### I am currently doing my apprenticeship in IT.
 
 <br>
