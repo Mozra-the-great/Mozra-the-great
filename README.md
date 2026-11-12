@@ -43,7 +43,7 @@ experiments, and AI-assisted nonsense: Have fun exploring!
 
 ### 📬 Connect with me 📬
 
-*And honestly, I have no idea how you ended up here, but well... now that you’re here anyway.* <br><br>
+*And honestly, I have no idea how you ended up here, but well... now that you’re here anyway, look around.* <br><br>
 
 [📸 **@moritz_b_s**](https://instagram.com/moritz_b_s) &nbsp;•&nbsp;
 [📸 **@projekt_strasse**](https://instagram.com/projekt_strasse) &nbsp;•&nbsp;
